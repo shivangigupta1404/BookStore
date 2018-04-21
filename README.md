@@ -30,4 +30,4 @@ A responsive website that displays available books in the store, along with thei
 * Thats it. Open <a href="http://localhost/bookstore/">localhost/bookstore/</a> in your browser
 
 ###Website Link :
-<a href="http://bookstoreproject.16mb.com">http://bookstoreproject.16mb.com</a>
+<a href="http://shivangibookshop.byethost7.com">http://shivangibookshop.byethost7.com</a>
