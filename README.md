@@ -29,5 +29,8 @@ A responsive website that displays available books in the store, along with thei
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/connection.png" width="200" height="100"/></kbd>
 * Thats it. Open <a href="http://localhost/bookstore/">localhost/bookstore/</a> in your browser
 
-###Website Link :
+##Website Link :
 <a href="http://shivangibookshop.byethost7.com">http://shivangibookshop.byethost7.com</a>
+
+##Licence :
+<a href="https://github.com/shivangigupta1404/BookStore/blob/master/LICENSE">https://github.com/shivangigupta1404/BookStore/blob/master/LICENSE</a>
