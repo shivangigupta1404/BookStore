@@ -232,11 +232,11 @@ if(isset($_POST['submit']))
                         <!-- Wrapper for slides -->
                       <div class="carousel-inner" role="listbox">
                           <div class="item active">
-                            <img class="img-responsive" src="img/carousel/1.jpg">
+                            <img class="img-responsive" src="img/carousel/logo umsu.jpg">
                           </div>
 
                           <div class="item">
-                            <img class="img-responsive "src="img/carousel/2.jpg">
+                            <img class="img-responsive "src="img/carousel/bukmega.jpg">
                           </div>
 
                           <div class="item">
